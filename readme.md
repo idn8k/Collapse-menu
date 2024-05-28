@@ -1,3 +1,3 @@
 # FAQ Collapse
 
-## A small component built w JS and CSS
+## A small component built w HTML, JS, and CSS
